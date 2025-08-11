@@ -1,0 +1,140 @@
+{
+  "templates": [
+    {
+      "name": "'Mobile Dashboard'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://familylikefriends.com/sitemap.html",
+          "uuid": "e9098ca714f7deb5b9fdd379c2a041694eb2070e"
+        },
+        {
+          "url": "https://familylikefriends.com/about-us.html",
+          "uuid": "60f5514cdf7ada6aa27a05eed550c25a941750af"
+        },
+        {
+          "url": "https://familylikefriends.com/error-page.html",
+          "uuid": "2b4a5ea724ab2180d43cbcbf435797022a84c693"
+        },
+        {
+          "url": "https://familylikefriends.com/privacy-policy.html",
+          "uuid": "b7ebba242a7e89621aa773dae12a0a9c709d6894"
+        },
+        {
+          "url": "https://familylikefriends.com/terms-and-conditions.html",
+          "uuid": "c83117b6417bb34c2a878e70fa4cd11ee2553e30"
+        }
+      ]
+    },
+    {
+      "name": "'Mobile-first Landing Page'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/poster-ready.html",
+          "uuid": "0cc88c49ef339a1f183eef9670a5a6b1e65097db"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing.html",
+          "uuid": "eaf55531cfb9094c533d04a63959047764b38d94"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/upload-faces.html",
+          "uuid": "a7f81da764c575d4b674fb04e14b239b13e6704c"
+        }
+      ]
+    },
+    {
+      "name": "'Directory Listing Page'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://familylikefriends.com/faqs.html",
+          "uuid": "733da547083d0fc70618f95f251b02de22e83e86"
+        }
+      ]
+    },
+    {
+      "name": "'Multi-purpose content hub'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://familylikefriends.com/home.html",
+          "uuid": "99e5aba01c9b2563d6fe4de13a79587b68c3691e"
+        }
+      ]
+    },
+    {
+      "name": "Mobile App Landing Page",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://familylikefriends.com/filmy-faces.html",
+          "uuid": "e60feb51086e3a3aba07754ceecc5f479a353319"
+        }
+      ]
+    },
+    {
+      "name": "'Landing Page'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://familylikefriends.com/error-page/404.html",
+          "uuid": "6b8da8bc4926c84c2a9960abca839a757f187494"
+        }
+      ]
+    },
+    {
+      "name": "Product Landing Page",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/created-poster-listing.html",
+          "uuid": "cb69dc418665d7b5f327a3cac90a963844e8a41e"
+        }
+      ]
+    },
+    {
+      "name": "\"Landing Page\"",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://familylikefriends.com/login/profile.html",
+          "uuid": "a245af7c99bebcdcf3cdfdf66a6ce2fd1a4e5d2e"
+        }
+      ]
+    },
+    {
+      "name": "'Homepage'",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://familylikefriends.com/login.html",
+          "uuid": "0e82b1b9e076aa16107c878ed2d13f0850cd8393"
+        }
+      ]
+    },
+    {
+      "name": "Multi-Purpose Content Template",
+      "cluster": 12,
+      "pages": [
+        {
+          "url": "https://familylikefriends.com/",
+          "uuid": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d"
+        }
+      ]
+    }
+  ]
+}
