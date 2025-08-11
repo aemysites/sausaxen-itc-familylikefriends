@@ -1,0 +1,230 @@
+{
+  "originUrl": "https://familylikefriends.com",
+  "lastCrawled": "https://familylikefriends.com/",
+  "urls": [
+    {
+      "url": "https://familylikefriends.com/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d"
+    },
+    {
+      "url": "https://familylikefriends.com/home.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home",
+      "id": "99e5aba01c9b2563d6fe4de13a79587b68c3691e"
+    },
+    {
+      "url": "https://familylikefriends.com/login.html",
+      "source": "SITEMAPS",
+      "targetPath": "/login",
+      "id": "0e82b1b9e076aa16107c878ed2d13f0850cd8393"
+    },
+    {
+      "url": "https://familylikefriends.com/login/profile.html",
+      "source": "SITEMAPS",
+      "targetPath": "/login/profile",
+      "id": "a245af7c99bebcdcf3cdfdf66a6ce2fd1a4e5d2e"
+    },
+    {
+      "url": "https://familylikefriends.com/privacy-policy.html",
+      "source": "SITEMAPS",
+      "targetPath": "/privacy-policy",
+      "id": "b7ebba242a7e89621aa773dae12a0a9c709d6894"
+    },
+    {
+      "url": "https://familylikefriends.com/terms-and-conditions.html",
+      "source": "SITEMAPS",
+      "targetPath": "/terms-and-conditions",
+      "id": "c83117b6417bb34c2a878e70fa4cd11ee2553e30"
+    },
+    {
+      "url": "https://familylikefriends.com/faqs.html",
+      "source": "SITEMAPS",
+      "targetPath": "/faqs",
+      "id": "733da547083d0fc70618f95f251b02de22e83e86"
+    },
+    {
+      "url": "https://familylikefriends.com/about-us.html",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us",
+      "id": "60f5514cdf7ada6aa27a05eed550c25a941750af"
+    },
+    {
+      "url": "https://familylikefriends.com/error-page.html",
+      "source": "SITEMAPS",
+      "targetPath": "/error-page",
+      "id": "2b4a5ea724ab2180d43cbcbf435797022a84c693"
+    },
+    {
+      "url": "https://familylikefriends.com/error-page/404.html",
+      "source": "SITEMAPS",
+      "targetPath": "/error-page/404",
+      "id": "6b8da8bc4926c84c2a9960abca839a757f187494"
+    },
+    {
+      "url": "https://familylikefriends.com/sitemap.html",
+      "source": "SITEMAPS",
+      "targetPath": "/sitemap",
+      "id": "e9098ca714f7deb5b9fdd379c2a041694eb2070e"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces.html",
+      "source": "SITEMAPS",
+      "targetPath": "/filmy-faces",
+      "id": "e60feb51086e3a3aba07754ceecc5f479a353319"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing.html",
+      "source": "SITEMAPS",
+      "targetPath": "/filmy-faces/posters-listing",
+      "id": "eaf55531cfb9094c533d04a63959047764b38d94"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/created-poster-listing.html",
+      "source": "SITEMAPS",
+      "targetPath": "/filmy-faces/posters-listing/created-poster-listing",
+      "id": "cb69dc418665d7b5f327a3cac90a963844e8a41e"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/upload-faces.html",
+      "source": "SITEMAPS",
+      "targetPath": "/filmy-faces/posters-listing/upload-faces",
+      "id": "a7f81da764c575d4b674fb04e14b239b13e6704c"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/poster-ready.html",
+      "source": "SITEMAPS",
+      "targetPath": "/filmy-faces/posters-listing/poster-ready",
+      "id": "0cc88c49ef339a1f183eef9670a5a6b1e65097db"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/my-posters.html",
+      "source": "SITEMAPS",
+      "targetPath": "/filmy-faces/posters-listing/my-posters",
+      "id": "ac8c536328233dcdd9c63965254362033b97fff6"
+    },
+    {
+      "url": "https://familylikefriends.com/family-frames.html",
+      "source": "SITEMAPS",
+      "targetPath": "/family-frames",
+      "id": "51d0cefc216995c6eb1d74951e1d2092a612c6a7"
+    },
+    {
+      "url": "https://familylikefriends.com/family-frames/upload-family-photo.html",
+      "source": "SITEMAPS",
+      "targetPath": "/family-frames/upload-family-photo",
+      "id": "cb12e1a4fe9d3e655dc538015e35be8a33fd9401"
+    },
+    {
+      "url": "https://familylikefriends.com/family-frames/upload-family-photo/frame-listing.html",
+      "source": "SITEMAPS",
+      "targetPath": "/family-frames/upload-family-photo/frame-listing",
+      "id": "4444fe7a7095ef0ed727ecaa2215163ac2c4b966"
+    },
+    {
+      "url": "https://familylikefriends.com/family-frames/upload-family-photo/frame-ready.html",
+      "source": "SITEMAPS",
+      "targetPath": "/family-frames/upload-family-photo/frame-ready",
+      "id": "bb81995fe46598f0a356ee1322897ef676bcad95"
+    },
+    {
+      "url": "https://familylikefriends.com/family-frames/upload-family-photo/memory-gallery.html",
+      "source": "SITEMAPS",
+      "targetPath": "/family-frames/upload-family-photo/memory-gallery",
+      "id": "a15625e2df6efba1e0db6feb9746353008d7c78c"
+    },
+    {
+      "url": "https://familylikefriends.com/admin-dashboard.html",
+      "source": "SITEMAPS",
+      "targetPath": "/admin-dashboard",
+      "id": "669dc3550dd27cd48adca943093991c9c53250fa"
+    },
+    {
+      "url": "https://familylikefriends.com/notifications.html",
+      "source": "SITEMAPS",
+      "targetPath": "/notifications",
+      "id": "2eb7fe070b244f9671d7893589633521e1507de0"
+    },
+    {
+      "url": "https://familylikefriends.com/blogs.html",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs",
+      "id": "51de2fe97950cc0a38212ec29b45b7abbd529d8b"
+    },
+    {
+      "url": "https://familylikefriends.com/blogs/10-fun-birthday-games-for-every-age.html",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/10-fun-birthday-games-for-every-age",
+      "id": "4ce16617cd77cc4d8d5f4c34bbefc65a27eeeb70"
+    },
+    {
+      "url": "https://familylikefriends.com/blogs/10-best-bollywood-movies-for-a-fun-family-night.html",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/10-best-bollywood-movies-for-a-fun-family-night",
+      "id": "8457833042dd3b83cf29cd19e5916c29c1adfee9"
+    },
+    {
+      "url": "https://familylikefriends.com/blogs/10-fun-things-to-do-with-your-family-this-weekend.html",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/10-fun-things-to-do-with-your-family-this-weekend",
+      "id": "b5ce8eb372150614ff50a5915e4199db4085ae26"
+    },
+    {
+      "url": "https://familylikefriends.com/blogs/11-unforgettable-family-activities.html",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/11-unforgettable-family-activities",
+      "id": "cb14866cb4f90f2562cc5bc10cbca2f09a14d02e"
+    },
+    {
+      "url": "https://familylikefriends.com/blogs/Top-15-Family-Games.html",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/top-15-family-games",
+      "id": "842ba7922030a1ff97b5caaf914fdc03f76e0511"
+    },
+    {
+      "url": "https://familylikefriends.com/blogs/9-Heartwarming-Hindi-Family.html",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/9-heartwarming-hindi-family",
+      "id": "5a681c412a0437cc76dc648d46e93e667a328aba"
+    },
+    {
+      "url": "https://familylikefriends.com/blogs/9-heartwarming-south-indian-family.html",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/9-heartwarming-south-indian-family",
+      "id": "5b48431909d91b4d9233b5731828e9a9d996f76c"
+    },
+    {
+      "url": "https://familylikefriends.com/blogs/how-to-create-a-stunning-family-tree.html",
+      "source": "SITEMAPS",
+      "targetPath": "/blogs/how-to-create-a-stunning-family-tree",
+      "id": "9fa8a51deb4ad7144a3609b59037d6fdd5687000"
+    },
+    {
+      "url": "https://familylikefriends.com/adopt-with-love.html",
+      "source": "SITEMAPS",
+      "targetPath": "/adopt-with-love",
+      "id": "9fb2b28ed0d49ddbe9a5052f4d1cdbc65b37cdca"
+    },
+    {
+      "url": "https://familylikefriends.com/nameplate-pledge.html",
+      "source": "SITEMAPS",
+      "targetPath": "/nameplate-pledge",
+      "id": "ca3c92871064335564023e19ac58895029bb8714"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": []
+}
