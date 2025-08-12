@@ -1,0 +1,1419 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/poster-ready.html",
+          "urlHash": "0cc88c49ef339a1f183eef9670a5a6b1e65097db",
+          "uuid": "0cc88c49-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]"
+        },
+        {
+          "url": "https://familylikefriends.com/login.html",
+          "urlHash": "0e82b1b9e076aa16107c878ed2d13f0850cd8393",
+          "uuid": "0e82b1b9-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]"
+        },
+        {
+          "url": "https://familylikefriends.com/error-page.html",
+          "urlHash": "2b4a5ea724ab2180d43cbcbf435797022a84c693",
+          "uuid": "2b4a5ea7-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]"
+        },
+        {
+          "url": "https://familylikefriends.com/",
+          "urlHash": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d",
+          "uuid": "3b3fdbd7-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]"
+        },
+        {
+          "url": "https://familylikefriends.com/about-us.html",
+          "urlHash": "60f5514cdf7ada6aa27a05eed550c25a941750af",
+          "uuid": "60f5514c-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]"
+        },
+        {
+          "url": "https://familylikefriends.com/error-page/404.html",
+          "urlHash": "6b8da8bc4926c84c2a9960abca839a757f187494",
+          "uuid": "6b8da8bc-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]"
+        },
+        {
+          "url": "https://familylikefriends.com/faqs.html",
+          "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+          "uuid": "733da547-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]"
+        },
+        {
+          "url": "https://familylikefriends.com/home.html",
+          "urlHash": "99e5aba01c9b2563d6fe4de13a79587b68c3691e",
+          "uuid": "99e5aba0-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]"
+        },
+        {
+          "url": "https://familylikefriends.com/login/profile.html",
+          "urlHash": "a245af7c99bebcdcf3cdfdf66a6ce2fd1a4e5d2e",
+          "uuid": "a245af7c-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]"
+        },
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/upload-faces.html",
+          "urlHash": "a7f81da764c575d4b674fb04e14b239b13e6704c",
+          "uuid": "a7f81da7-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]"
+        },
+        {
+          "url": "https://familylikefriends.com/privacy-policy.html",
+          "urlHash": "b7ebba242a7e89621aa773dae12a0a9c709d6894",
+          "uuid": "b7ebba24-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]"
+        },
+        {
+          "url": "https://familylikefriends.com/terms-and-conditions.html",
+          "urlHash": "c83117b6417bb34c2a878e70fa4cd11ee2553e30",
+          "uuid": "c83117b6-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]"
+        },
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/created-poster-listing.html",
+          "urlHash": "cb69dc418665d7b5f327a3cac90a963844e8a41e",
+          "uuid": "cb69dc41-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]"
+        },
+        {
+          "url": "https://familylikefriends.com/filmy-faces.html",
+          "urlHash": "e60feb51086e3a3aba07754ceecc5f479a353319",
+          "uuid": "e60feb51-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]"
+        },
+        {
+          "url": "https://familylikefriends.com/sitemap.html",
+          "urlHash": "e9098ca714f7deb5b9fdd379c2a041694eb2070e",
+          "uuid": "e9098ca7-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]"
+        },
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing.html",
+          "urlHash": "eaf55531cfb9094c533d04a63959047764b38d94",
+          "uuid": "eaf55531-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]"
+        }
+      ],
+      "styles": {
+        "height": 109,
+        "background": "rgb(254, 245, 235) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/poster-ready.html",
+          "urlHash": "0cc88c49ef339a1f183eef9670a5a6b1e65097db",
+          "uuid": "0cc88c49-05-98c9bb318b801d40d7a6a986f3def330b6928496",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div_4__div__div__div__section__div__section_2",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Follow Us On ITC portal ITC eStore \u00a9 2025 Sunfeast. All Rights Reserved."
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://familylikefriends.com/login.html",
+          "urlHash": "0e82b1b9e076aa16107c878ed2d13f0850cd8393",
+          "uuid": "0e82b1b9-04-98c9bb318b801d40d7a6a986f3def330b6928496",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://familylikefriends.com/error-page.html",
+          "urlHash": "2b4a5ea724ab2180d43cbcbf435797022a84c693",
+          "uuid": "2b4a5ea7-04-e68852b187cba0f578c05f1c2d4d941439ccd35b",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/section[1]"
+        },
+        {
+          "url": "https://familylikefriends.com/",
+          "urlHash": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d",
+          "uuid": "3b3fdbd7-12-d98cdf0358a6881125abf4d12b9d9df814d8f285",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[10]/div[1]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://familylikefriends.com/about-us.html",
+          "urlHash": "60f5514cdf7ada6aa27a05eed550c25a941750af",
+          "uuid": "60f5514c-04-e68852b187cba0f578c05f1c2d4d941439ccd35b",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/section[1]"
+        },
+        {
+          "url": "https://familylikefriends.com/error-page/404.html",
+          "urlHash": "6b8da8bc4926c84c2a9960abca839a757f187494",
+          "uuid": "6b8da8bc-03-98c9bb318b801d40d7a6a986f3def330b6928496",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://familylikefriends.com/faqs.html",
+          "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+          "uuid": "733da547-24-98c9bb318b801d40d7a6a986f3def330b6928496",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://familylikefriends.com/home.html",
+          "urlHash": "99e5aba01c9b2563d6fe4de13a79587b68c3691e",
+          "uuid": "99e5aba0-12-d98cdf0358a6881125abf4d12b9d9df814d8f285",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[10]/div[1]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://familylikefriends.com/login/profile.html",
+          "urlHash": "a245af7c99bebcdcf3cdfdf66a6ce2fd1a4e5d2e",
+          "uuid": "a245af7c-04-98c9bb318b801d40d7a6a986f3def330b6928496",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/upload-faces.html",
+          "urlHash": "a7f81da764c575d4b674fb04e14b239b13e6704c",
+          "uuid": "a7f81da7-10-98c9bb318b801d40d7a6a986f3def330b6928496",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://familylikefriends.com/privacy-policy.html",
+          "urlHash": "b7ebba242a7e89621aa773dae12a0a9c709d6894",
+          "uuid": "b7ebba24-05-98c9bb318b801d40d7a6a986f3def330b6928496",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://familylikefriends.com/terms-and-conditions.html",
+          "urlHash": "c83117b6417bb34c2a878e70fa4cd11ee2553e30",
+          "uuid": "c83117b6-04-98c9bb318b801d40d7a6a986f3def330b6928496",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/created-poster-listing.html",
+          "urlHash": "cb69dc418665d7b5f327a3cac90a963844e8a41e",
+          "uuid": "cb69dc41-06-98c9bb318b801d40d7a6a986f3def330b6928496",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://familylikefriends.com/filmy-faces.html",
+          "urlHash": "e60feb51086e3a3aba07754ceecc5f479a353319",
+          "uuid": "e60feb51-10-1a8d5dde8cd2aa1379f5f876d816df0ab4bacd1d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://familylikefriends.com/sitemap.html",
+          "urlHash": "e9098ca714f7deb5b9fdd379c2a041694eb2070e",
+          "uuid": "e9098ca7-05-98c9bb318b801d40d7a6a986f3def330b6928496",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing.html",
+          "urlHash": "eaf55531cfb9094c533d04a63959047764b38d94",
+          "uuid": "eaf55531-07-98c9bb318b801d40d7a6a986f3def330b6928496",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(243, 121, 6) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Hero",
+      "cluster": 1,
+      "source": "Hero",
+      "target": "Hero (hero1)",
+      "key": "hero1",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/poster-ready.html",
+          "urlHash": "0cc88c49ef339a1f183eef9670a5a6b1e65097db",
+          "uuid": "0cc88c49-02-aa79753c20fc362414b15da3eee112295f88329d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/created-poster-listing.html",
+          "urlHash": "cb69dc418665d7b5f327a3cac90a963844e8a41e",
+          "uuid": "cb69dc41-03-1e58652da4f294eafb54cc2854125d52c8b52a21",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 2,
+      "source": "Accordion",
+      "target": "Accordion (accordion2)",
+      "key": "accordion2",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/faqs.html",
+          "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+          "uuid": "733da547-06-be07118f54f42d859e01e959469c43f8e15fbb97",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[4]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://familylikefriends.com/faqs.html",
+          "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+          "uuid": "733da547-07-5546a2b3e41bdd2f2dee7659adcc7fc69c6bdfa6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 3,
+      "source": "Cards",
+      "target": "Cards (cards3)",
+      "key": "cards3",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/upload-faces.html",
+          "urlHash": "a7f81da764c575d4b674fb04e14b239b13e6704c",
+          "uuid": "a7f81da7-07-aa79753c20fc362414b15da3eee112295f88329d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://familylikefriends.com/filmy-faces.html",
+          "urlHash": "e60feb51086e3a3aba07754ceecc5f479a353319",
+          "uuid": "e60feb51-06-f11e1840b6e7a737ecf71dfad6fdbfa9e412050b",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[8]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing.html",
+          "urlHash": "eaf55531cfb9094c533d04a63959047764b38d94",
+          "uuid": "eaf55531-04-1d59afa3eb0797074735253c9f211108678e9c47",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[5]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 4,
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/upload-faces.html",
+          "urlHash": "a7f81da764c575d4b674fb04e14b239b13e6704c",
+          "uuid": "a7f81da7-05-ecda000f42db1dccbfd89e0a3d17870f9d64bc9b",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[9]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/poster-ready.html",
+          "urlHash": "0cc88c49ef339a1f183eef9670a5a6b1e65097db",
+          "uuid": "0cc88c49-04-e896f1167b70f17623ca68f1b6cc3d97dbf6dec8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-4",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div_4__div__div__div__section__div__section",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "About us Terms and Conditions Privacy Policy Contact us Sitemap FAQs"
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://familylikefriends.com/login.html",
+          "urlHash": "0e82b1b9e076aa16107c878ed2d13f0850cd8393",
+          "uuid": "0e82b1b9-03-e896f1167b70f17623ca68f1b6cc3d97dbf6dec8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://familylikefriends.com/error-page.html",
+          "urlHash": "2b4a5ea724ab2180d43cbcbf435797022a84c693",
+          "uuid": "2b4a5ea7-02-e896f1167b70f17623ca68f1b6cc3d97dbf6dec8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://familylikefriends.com/",
+          "urlHash": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d",
+          "uuid": "3b3fdbd7-10-e896f1167b70f17623ca68f1b6cc3d97dbf6dec8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://familylikefriends.com/about-us.html",
+          "urlHash": "60f5514cdf7ada6aa27a05eed550c25a941750af",
+          "uuid": "60f5514c-02-e896f1167b70f17623ca68f1b6cc3d97dbf6dec8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://familylikefriends.com/error-page/404.html",
+          "urlHash": "6b8da8bc4926c84c2a9960abca839a757f187494",
+          "uuid": "6b8da8bc-02-e896f1167b70f17623ca68f1b6cc3d97dbf6dec8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://familylikefriends.com/faqs.html",
+          "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+          "uuid": "733da547-23-e896f1167b70f17623ca68f1b6cc3d97dbf6dec8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://familylikefriends.com/home.html",
+          "urlHash": "99e5aba01c9b2563d6fe4de13a79587b68c3691e",
+          "uuid": "99e5aba0-10-e896f1167b70f17623ca68f1b6cc3d97dbf6dec8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://familylikefriends.com/login/profile.html",
+          "urlHash": "a245af7c99bebcdcf3cdfdf66a6ce2fd1a4e5d2e",
+          "uuid": "a245af7c-03-e896f1167b70f17623ca68f1b6cc3d97dbf6dec8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/upload-faces.html",
+          "urlHash": "a7f81da764c575d4b674fb04e14b239b13e6704c",
+          "uuid": "a7f81da7-09-e896f1167b70f17623ca68f1b6cc3d97dbf6dec8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://familylikefriends.com/privacy-policy.html",
+          "urlHash": "b7ebba242a7e89621aa773dae12a0a9c709d6894",
+          "uuid": "b7ebba24-04-e896f1167b70f17623ca68f1b6cc3d97dbf6dec8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://familylikefriends.com/terms-and-conditions.html",
+          "urlHash": "c83117b6417bb34c2a878e70fa4cd11ee2553e30",
+          "uuid": "c83117b6-03-e896f1167b70f17623ca68f1b6cc3d97dbf6dec8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/created-poster-listing.html",
+          "urlHash": "cb69dc418665d7b5f327a3cac90a963844e8a41e",
+          "uuid": "cb69dc41-05-e896f1167b70f17623ca68f1b6cc3d97dbf6dec8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://familylikefriends.com/filmy-faces.html",
+          "urlHash": "e60feb51086e3a3aba07754ceecc5f479a353319",
+          "uuid": "e60feb51-08-e896f1167b70f17623ca68f1b6cc3d97dbf6dec8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://familylikefriends.com/sitemap.html",
+          "urlHash": "e9098ca714f7deb5b9fdd379c2a041694eb2070e",
+          "uuid": "e9098ca7-04-e896f1167b70f17623ca68f1b6cc3d97dbf6dec8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing.html",
+          "urlHash": "eaf55531cfb9094c533d04a63959047764b38d94",
+          "uuid": "eaf55531-06-e896f1167b70f17623ca68f1b6cc3d97dbf6dec8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 6,
+      "source": "Cards",
+      "target": "Cards (cards6)",
+      "key": "cards6",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/",
+          "urlHash": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d",
+          "uuid": "3b3fdbd7-12-d98cdf0358a6881125abf4d12b9d9df814d8f285",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[10]/div[1]/div[2]/div[1]/div[2]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://familylikefriends.com/home.html",
+          "urlHash": "99e5aba01c9b2563d6fe4de13a79587b68c3691e",
+          "uuid": "99e5aba0-12-d98cdf0358a6881125abf4d12b9d9df814d8f285",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[10]/div[1]/div[2]/div[1]/div[2]",
+          "section": "section-7"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 7,
+      "source": "Accordion",
+      "target": "Accordion (accordion7)",
+      "key": "accordion7",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/faqs.html",
+          "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+          "uuid": "733da547-03-0a23aa31bcb41194cbfb2ba3ab5e089647731090",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://familylikefriends.com/faqs.html",
+          "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+          "uuid": "733da547-10-9ff9740225015bf7c99bfb405f0375983a7ea8c4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 8,
+      "source": "Tabs",
+      "target": "Tabs (tabs8)",
+      "key": "tabs8",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing.html",
+          "urlHash": "eaf55531cfb9094c533d04a63959047764b38d94",
+          "uuid": "eaf55531-02-1e58652da4f294eafb54cc2854125d52c8b52a21",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 9,
+      "source": "Tabs",
+      "target": "Tabs (tabs9)",
+      "key": "tabs9",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/created-poster-listing.html",
+          "urlHash": "cb69dc418665d7b5f327a3cac90a963844e8a41e",
+          "uuid": "cb69dc41-02-aa79753c20fc362414b15da3eee112295f88329d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 10,
+      "source": "Hero",
+      "target": "Hero (hero10)",
+      "key": "hero10",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing/poster-ready.html",
+          "urlHash": "0cc88c49ef339a1f183eef9670a5a6b1e65097db",
+          "uuid": "0cc88c49-01-3e0fe1cecf76e15ff86bdc3d3f660cb39770767e",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+          "section": "section-2",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div_2__div__div",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Your poster is ready! SHARE DOWNLOAD"
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 11,
+      "source": "Accordion",
+      "target": "Accordion (accordion11)",
+      "key": "accordion11",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/faqs.html",
+          "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+          "uuid": "733da547-16-7b6d58276487bf685506c39e88b7543889abfc68",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[9]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 12,
+      "source": "Accordion",
+      "target": "Accordion (accordion12)",
+      "key": "accordion12",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/faqs.html",
+          "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+          "uuid": "733da547-21-4cac82accee8236deda1ee230a28e4ea7e9bbbbe",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[13]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 13,
+      "source": "Accordion",
+      "target": "Accordion (accordion13)",
+      "key": "accordion13",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/faqs.html",
+          "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+          "uuid": "733da547-19-a788bb51374fb5fa8c4f8b29666c232ea361f6bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[11]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 14,
+      "source": "Accordion",
+      "target": "Accordion (accordion14)",
+      "key": "accordion14",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/faqs.html",
+          "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+          "uuid": "733da547-14-46b162862f6e68fff746cfae0c51018d00ff8a55",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 15,
+      "source": "Carousel",
+      "target": "Carousel",
+      "key": "carousel15",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/",
+          "urlHash": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d",
+          "uuid": "3b3fdbd7-06-602a211b63ed9b844328bb54e311475bac7a2d26",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[7]",
+          "section": "section-6"
+        },
+        {
+          "url": "https://familylikefriends.com/home.html",
+          "urlHash": "99e5aba01c9b2563d6fe4de13a79587b68c3691e",
+          "uuid": "99e5aba0-06-602a211b63ed9b844328bb54e311475bac7a2d26",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[7]",
+          "section": "section-6"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 16,
+      "source": "Accordion",
+      "target": "Accordion (accordion16)",
+      "key": "accordion16",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/faqs.html",
+          "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+          "uuid": "733da547-05-2582d79479f555a3e712a88778f560344b028b14",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 17,
+      "source": "Accordion",
+      "target": "Accordion (accordion17)",
+      "key": "accordion17",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/faqs.html",
+          "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+          "uuid": "733da547-12-b08959c5a1c8e89bb77e7410824729ddbfaff31e",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 18,
+      "source": "Accordion",
+      "target": "Accordion (accordion18)",
+      "key": "accordion18",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/faqs.html",
+          "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+          "uuid": "733da547-04-1f17f16ae9b4de2c9996963f7fb16bef0429fc52",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 19,
+      "source": "Accordion",
+      "target": "Accordion (accordion19)",
+      "key": "accordion19",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/faqs.html",
+          "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+          "uuid": "733da547-11-d22ab3a97cb57d1c7e1fe9190350e7e3d327c8ec",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 20,
+      "source": "Accordion",
+      "target": "Accordion (accordion20)",
+      "key": "accordion20",
+      "instances": [
+        {
+          "url": "https://familylikefriends.com/faqs.html",
+          "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+          "uuid": "733da547-08-83c53e91404b629fdcae2ff89f389f34b03e410f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[6]",
+          "section": "section-2"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/poster-ready.html",
+      "urlHash": "0cc88c49ef339a1f183eef9670a5a6b1e65097db",
+      "uuid": "0cc88c49-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/poster-ready.html",
+      "urlHash": "0cc88c49ef339a1f183eef9670a5a6b1e65097db",
+      "uuid": "0cc88c49-03-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/poster-ready.html",
+      "urlHash": "0cc88c49ef339a1f183eef9670a5a6b1e65097db",
+      "uuid": "0cc88c49-05-98c9bb318b801d40d7a6a986f3def330b6928496",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-4",
+      "differences": [
+        {
+          "element_id": "html__body__div__div__div_4__div__div__div__section__div__section_2",
+          "differences": [
+            {
+              "change_type": "deletion",
+              "text": "Follow Us On ITC portal ITC eStore \u00a9 2025 Sunfeast. All Rights Reserved."
+            }
+          ],
+          "dissimilarity_score": 1.0
+        }
+      ],
+      "similarity_score": 0.0
+    },
+    {
+      "url": "https://familylikefriends.com/login.html",
+      "urlHash": "0e82b1b9e076aa16107c878ed2d13f0850cd8393",
+      "uuid": "0e82b1b9-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/login.html",
+      "urlHash": "0e82b1b9e076aa16107c878ed2d13f0850cd8393",
+      "uuid": "0e82b1b9-01-07c557d6636fc1961324aaf292245586a3c75f16",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/login.html",
+      "urlHash": "0e82b1b9e076aa16107c878ed2d13f0850cd8393",
+      "uuid": "0e82b1b9-02-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/login.html",
+      "urlHash": "0e82b1b9e076aa16107c878ed2d13f0850cd8393",
+      "uuid": "0e82b1b9-04-98c9bb318b801d40d7a6a986f3def330b6928496",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/error-page.html",
+      "urlHash": "2b4a5ea724ab2180d43cbcbf435797022a84c693",
+      "uuid": "2b4a5ea7-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/error-page.html",
+      "urlHash": "2b4a5ea724ab2180d43cbcbf435797022a84c693",
+      "uuid": "2b4a5ea7-01-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/error-page.html",
+      "urlHash": "2b4a5ea724ab2180d43cbcbf435797022a84c693",
+      "uuid": "2b4a5ea7-03-98c9bb318b801d40d7a6a986f3def330b6928496",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/error-page.html",
+      "urlHash": "2b4a5ea724ab2180d43cbcbf435797022a84c693",
+      "uuid": "2b4a5ea7-04-e68852b187cba0f578c05f1c2d4d941439ccd35b",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/section[1]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://familylikefriends.com/",
+      "urlHash": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d",
+      "uuid": "3b3fdbd7-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/",
+      "urlHash": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d",
+      "uuid": "3b3fdbd7-01-3e0fe1cecf76e15ff86bdc3d3f660cb39770767e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/",
+      "urlHash": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d",
+      "uuid": "3b3fdbd7-02-1e58652da4f294eafb54cc2854125d52c8b52a21",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/",
+      "urlHash": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d",
+      "uuid": "3b3fdbd7-03-a8d96cdc7abff5f171af14ebdd7f6d5a6fd9e832",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/",
+      "urlHash": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d",
+      "uuid": "3b3fdbd7-04-1d59afa3eb0797074735253c9f211108678e9c47",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[5]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/",
+      "urlHash": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d",
+      "uuid": "3b3fdbd7-05-06ea0f4a4b7d1de86bfd0df45397648fc078463a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[6]",
+      "section": "section-6"
+    },
+    {
+      "url": "https://familylikefriends.com/",
+      "urlHash": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d",
+      "uuid": "3b3fdbd7-07-f11e1840b6e7a737ecf71dfad6fdbfa9e412050b",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[8]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/",
+      "urlHash": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d",
+      "uuid": "3b3fdbd7-08-1bbd9a9329c068f66f529fb5f71d9e10ca1d8898",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[9]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/",
+      "urlHash": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d",
+      "uuid": "3b3fdbd7-09-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/",
+      "urlHash": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d",
+      "uuid": "3b3fdbd7-11-98c9bb318b801d40d7a6a986f3def330b6928496",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/about-us.html",
+      "urlHash": "60f5514cdf7ada6aa27a05eed550c25a941750af",
+      "uuid": "60f5514c-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/about-us.html",
+      "urlHash": "60f5514cdf7ada6aa27a05eed550c25a941750af",
+      "uuid": "60f5514c-01-07c557d6636fc1961324aaf292245586a3c75f16",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/about-us.html",
+      "urlHash": "60f5514cdf7ada6aa27a05eed550c25a941750af",
+      "uuid": "60f5514c-03-98c9bb318b801d40d7a6a986f3def330b6928496",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/about-us.html",
+      "urlHash": "60f5514cdf7ada6aa27a05eed550c25a941750af",
+      "uuid": "60f5514c-04-e68852b187cba0f578c05f1c2d4d941439ccd35b",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/section[1]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://familylikefriends.com/error-page/404.html",
+      "urlHash": "6b8da8bc4926c84c2a9960abca839a757f187494",
+      "uuid": "6b8da8bc-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/error-page/404.html",
+      "urlHash": "6b8da8bc4926c84c2a9960abca839a757f187494",
+      "uuid": "6b8da8bc-01-07c557d6636fc1961324aaf292245586a3c75f16",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/error-page/404.html",
+      "urlHash": "6b8da8bc4926c84c2a9960abca839a757f187494",
+      "uuid": "6b8da8bc-03-98c9bb318b801d40d7a6a986f3def330b6928496",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/faqs.html",
+      "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+      "uuid": "733da547-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/faqs.html",
+      "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+      "uuid": "733da547-01-4130e0169ed4c673a7f233fd2e283b1580f034f9",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/faqs.html",
+      "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+      "uuid": "733da547-02-d4fe0aaf083cd6351010828dae0b5b96906334d4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/faqs.html",
+      "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+      "uuid": "733da547-09-9604eacf8469e6e0fc6b36ce6c49d4831b4bd2bd",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/faqs.html",
+      "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+      "uuid": "733da547-13-d64085a4ba4433778bc0066c24842d58751744fa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/faqs.html",
+      "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+      "uuid": "733da547-15-317f65deaa1eee9e4318085a1e93ebdfc868fff0",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/faqs.html",
+      "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+      "uuid": "733da547-17-e68852b187cba0f578c05f1c2d4d941439ccd35b",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/section[1]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://familylikefriends.com/faqs.html",
+      "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+      "uuid": "733da547-18-5c79d98c5acde61b297bf37fe01fcdafbbe610ce",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[10]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/faqs.html",
+      "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+      "uuid": "733da547-20-de336d0f4232fda2cf2da0c0e439efd06d2fe4bf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[12]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/faqs.html",
+      "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+      "uuid": "733da547-22-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/faqs.html",
+      "urlHash": "733da547083d0fc70618f95f251b02de22e83e86",
+      "uuid": "733da547-24-98c9bb318b801d40d7a6a986f3def330b6928496",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/home.html",
+      "urlHash": "99e5aba01c9b2563d6fe4de13a79587b68c3691e",
+      "uuid": "99e5aba0-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/home.html",
+      "urlHash": "99e5aba01c9b2563d6fe4de13a79587b68c3691e",
+      "uuid": "99e5aba0-01-3e0fe1cecf76e15ff86bdc3d3f660cb39770767e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/home.html",
+      "urlHash": "99e5aba01c9b2563d6fe4de13a79587b68c3691e",
+      "uuid": "99e5aba0-02-1e58652da4f294eafb54cc2854125d52c8b52a21",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/home.html",
+      "urlHash": "99e5aba01c9b2563d6fe4de13a79587b68c3691e",
+      "uuid": "99e5aba0-03-a8d96cdc7abff5f171af14ebdd7f6d5a6fd9e832",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/home.html",
+      "urlHash": "99e5aba01c9b2563d6fe4de13a79587b68c3691e",
+      "uuid": "99e5aba0-04-1d59afa3eb0797074735253c9f211108678e9c47",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[5]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/home.html",
+      "urlHash": "99e5aba01c9b2563d6fe4de13a79587b68c3691e",
+      "uuid": "99e5aba0-05-06ea0f4a4b7d1de86bfd0df45397648fc078463a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[6]",
+      "section": "section-6"
+    },
+    {
+      "url": "https://familylikefriends.com/home.html",
+      "urlHash": "99e5aba01c9b2563d6fe4de13a79587b68c3691e",
+      "uuid": "99e5aba0-07-f11e1840b6e7a737ecf71dfad6fdbfa9e412050b",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[8]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/home.html",
+      "urlHash": "99e5aba01c9b2563d6fe4de13a79587b68c3691e",
+      "uuid": "99e5aba0-08-1bbd9a9329c068f66f529fb5f71d9e10ca1d8898",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[9]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/home.html",
+      "urlHash": "99e5aba01c9b2563d6fe4de13a79587b68c3691e",
+      "uuid": "99e5aba0-09-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/home.html",
+      "urlHash": "99e5aba01c9b2563d6fe4de13a79587b68c3691e",
+      "uuid": "99e5aba0-11-98c9bb318b801d40d7a6a986f3def330b6928496",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/login/profile.html",
+      "urlHash": "a245af7c99bebcdcf3cdfdf66a6ce2fd1a4e5d2e",
+      "uuid": "a245af7c-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/login/profile.html",
+      "urlHash": "a245af7c99bebcdcf3cdfdf66a6ce2fd1a4e5d2e",
+      "uuid": "a245af7c-01-07c557d6636fc1961324aaf292245586a3c75f16",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/login/profile.html",
+      "urlHash": "a245af7c99bebcdcf3cdfdf66a6ce2fd1a4e5d2e",
+      "uuid": "a245af7c-02-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/login/profile.html",
+      "urlHash": "a245af7c99bebcdcf3cdfdf66a6ce2fd1a4e5d2e",
+      "uuid": "a245af7c-04-98c9bb318b801d40d7a6a986f3def330b6928496",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/upload-faces.html",
+      "urlHash": "a7f81da764c575d4b674fb04e14b239b13e6704c",
+      "uuid": "a7f81da7-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/upload-faces.html",
+      "urlHash": "a7f81da764c575d4b674fb04e14b239b13e6704c",
+      "uuid": "a7f81da7-01-8d757cd9bc27c622e30f11c43d32de116fca5881",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/upload-faces.html",
+      "urlHash": "a7f81da764c575d4b674fb04e14b239b13e6704c",
+      "uuid": "a7f81da7-02-140e6495eee7624a272888ae4c93d34f5c681665",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/upload-faces.html",
+      "urlHash": "a7f81da764c575d4b674fb04e14b239b13e6704c",
+      "uuid": "a7f81da7-03-e2921a05c8b617884b3d77dd79be0235a4106a10",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/upload-faces.html",
+      "urlHash": "a7f81da764c575d4b674fb04e14b239b13e6704c",
+      "uuid": "a7f81da7-04-74d8a012982ea39f0609b36e7b4ea31ddb116ec3",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/upload-faces.html",
+      "urlHash": "a7f81da764c575d4b674fb04e14b239b13e6704c",
+      "uuid": "a7f81da7-06-e68852b187cba0f578c05f1c2d4d941439ccd35b",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/section[1]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/upload-faces.html",
+      "urlHash": "a7f81da764c575d4b674fb04e14b239b13e6704c",
+      "uuid": "a7f81da7-08-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/upload-faces.html",
+      "urlHash": "a7f81da764c575d4b674fb04e14b239b13e6704c",
+      "uuid": "a7f81da7-10-98c9bb318b801d40d7a6a986f3def330b6928496",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/privacy-policy.html",
+      "urlHash": "b7ebba242a7e89621aa773dae12a0a9c709d6894",
+      "uuid": "b7ebba24-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/privacy-policy.html",
+      "urlHash": "b7ebba242a7e89621aa773dae12a0a9c709d6894",
+      "uuid": "b7ebba24-01-4130e0169ed4c673a7f233fd2e283b1580f034f9",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/privacy-policy.html",
+      "urlHash": "b7ebba242a7e89621aa773dae12a0a9c709d6894",
+      "uuid": "b7ebba24-02-d4fe0aaf083cd6351010828dae0b5b96906334d4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/privacy-policy.html",
+      "urlHash": "b7ebba242a7e89621aa773dae12a0a9c709d6894",
+      "uuid": "b7ebba24-03-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/privacy-policy.html",
+      "urlHash": "b7ebba242a7e89621aa773dae12a0a9c709d6894",
+      "uuid": "b7ebba24-05-98c9bb318b801d40d7a6a986f3def330b6928496",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/terms-and-conditions.html",
+      "urlHash": "c83117b6417bb34c2a878e70fa4cd11ee2553e30",
+      "uuid": "c83117b6-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/terms-and-conditions.html",
+      "urlHash": "c83117b6417bb34c2a878e70fa4cd11ee2553e30",
+      "uuid": "c83117b6-01-07c557d6636fc1961324aaf292245586a3c75f16",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/terms-and-conditions.html",
+      "urlHash": "c83117b6417bb34c2a878e70fa4cd11ee2553e30",
+      "uuid": "c83117b6-02-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/terms-and-conditions.html",
+      "urlHash": "c83117b6417bb34c2a878e70fa4cd11ee2553e30",
+      "uuid": "c83117b6-04-98c9bb318b801d40d7a6a986f3def330b6928496",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/created-poster-listing.html",
+      "urlHash": "cb69dc418665d7b5f327a3cac90a963844e8a41e",
+      "uuid": "cb69dc41-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/created-poster-listing.html",
+      "urlHash": "cb69dc418665d7b5f327a3cac90a963844e8a41e",
+      "uuid": "cb69dc41-01-3e0fe1cecf76e15ff86bdc3d3f660cb39770767e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/created-poster-listing.html",
+      "urlHash": "cb69dc418665d7b5f327a3cac90a963844e8a41e",
+      "uuid": "cb69dc41-04-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/created-poster-listing.html",
+      "urlHash": "cb69dc418665d7b5f327a3cac90a963844e8a41e",
+      "uuid": "cb69dc41-06-98c9bb318b801d40d7a6a986f3def330b6928496",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces.html",
+      "urlHash": "e60feb51086e3a3aba07754ceecc5f479a353319",
+      "uuid": "e60feb51-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces.html",
+      "urlHash": "e60feb51086e3a3aba07754ceecc5f479a353319",
+      "uuid": "e60feb51-01-aa79753c20fc362414b15da3eee112295f88329d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces.html",
+      "urlHash": "e60feb51086e3a3aba07754ceecc5f479a353319",
+      "uuid": "e60feb51-02-1e58652da4f294eafb54cc2854125d52c8b52a21",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces.html",
+      "urlHash": "e60feb51086e3a3aba07754ceecc5f479a353319",
+      "uuid": "e60feb51-03-a8d96cdc7abff5f171af14ebdd7f6d5a6fd9e832",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[4]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces.html",
+      "urlHash": "e60feb51086e3a3aba07754ceecc5f479a353319",
+      "uuid": "e60feb51-04-1d59afa3eb0797074735253c9f211108678e9c47",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces.html",
+      "urlHash": "e60feb51086e3a3aba07754ceecc5f479a353319",
+      "uuid": "e60feb51-05-602a211b63ed9b844328bb54e311475bac7a2d26",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[7]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces.html",
+      "urlHash": "e60feb51086e3a3aba07754ceecc5f479a353319",
+      "uuid": "e60feb51-07-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces.html",
+      "urlHash": "e60feb51086e3a3aba07754ceecc5f479a353319",
+      "uuid": "e60feb51-09-98c9bb318b801d40d7a6a986f3def330b6928496",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces.html",
+      "urlHash": "e60feb51086e3a3aba07754ceecc5f479a353319",
+      "uuid": "e60feb51-10-1a8d5dde8cd2aa1379f5f876d816df0ab4bacd1d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[2]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/sitemap.html",
+      "urlHash": "e9098ca714f7deb5b9fdd379c2a041694eb2070e",
+      "uuid": "e9098ca7-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/sitemap.html",
+      "urlHash": "e9098ca714f7deb5b9fdd379c2a041694eb2070e",
+      "uuid": "e9098ca7-01-3e0fe1cecf76e15ff86bdc3d3f660cb39770767e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/sitemap.html",
+      "urlHash": "e9098ca714f7deb5b9fdd379c2a041694eb2070e",
+      "uuid": "e9098ca7-02-aa79753c20fc362414b15da3eee112295f88329d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/sitemap.html",
+      "urlHash": "e9098ca714f7deb5b9fdd379c2a041694eb2070e",
+      "uuid": "e9098ca7-03-1e58652da4f294eafb54cc2854125d52c8b52a21",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/sitemap.html",
+      "urlHash": "e9098ca714f7deb5b9fdd379c2a041694eb2070e",
+      "uuid": "e9098ca7-05-98c9bb318b801d40d7a6a986f3def330b6928496",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing.html",
+      "urlHash": "eaf55531cfb9094c533d04a63959047764b38d94",
+      "uuid": "eaf55531-00-abcb2ca5df62d9ab1fdef31f47bd858d4027473a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/header[1]/div[2]/a[1]/div[1]/img[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing.html",
+      "urlHash": "eaf55531cfb9094c533d04a63959047764b38d94",
+      "uuid": "eaf55531-01-aa79753c20fc362414b15da3eee112295f88329d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing.html",
+      "urlHash": "eaf55531cfb9094c533d04a63959047764b38d94",
+      "uuid": "eaf55531-03-a8d96cdc7abff5f171af14ebdd7f6d5a6fd9e832",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[4]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing.html",
+      "urlHash": "eaf55531cfb9094c533d04a63959047764b38d94",
+      "uuid": "eaf55531-05-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing.html",
+      "urlHash": "eaf55531cfb9094c533d04a63959047764b38d94",
+      "uuid": "eaf55531-07-98c9bb318b801d40d7a6a986f3def330b6928496",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-4"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://familylikefriends.com/filmy-faces/posters-listing/poster-ready.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "403 ERROR The request could not be satisfied. Request blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner. If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation. Generated by cloudfront (CloudFront) Request ID: "
+        },
+        {
+          "change_type": "deletion",
+          "text": "EKFNG4dRS1A-Sg13aC7CHZJAAnrfj6IAqIH7b3JwuFgkDB1DrWxgUg"
+        },
+        {
+          "change_type": "insertion",
+          "text": "ErDbjgzTBsVUyRT8xrMocBuY5GJyWjs9GdP47eHh4hOk66ijTeHzmw"
+        },
+        {
+          "change_type": "equal",
+          "text": "=="
+        }
+      ],
+      "similarity_score": 0.9799965679677185
+    }
+  ]
+}
