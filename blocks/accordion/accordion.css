@@ -232,10 +232,9 @@
   margin: 32px auto;
   box-sizing: border-box;
   border: none;
-  gap: 8vw; /* More dynamic gap, tighter for few items */
+  gap: 8vw;
 }
 
-/* Each accordion item: vertically and horizontally centered */
 .accordion.accordion11 > details {
   flex: 0 1 240px;
   display: flex;
@@ -250,7 +249,6 @@
   padding: 0;
 }
 
-/* Center summary content and allow wrapping */
 .accordion.accordion11 > details > summary,
 .accordion.accordion11 > details .accordion-item-label p {
   text-align: center;
@@ -265,26 +263,22 @@
   line-height: 1.3;
   white-space: normal;
   overflow-wrap: anywhere;
-  word-break: break-word;
+  word-break: break-all;
 }
 
-/* Remove summary marker/arrow in as many browsers as possible */
 .accordion.accordion11 > details > summary::-webkit-details-marker,
 .accordion.accordion11 > details > summary::marker {
   display: none;
 }
 
-/* Hide body content for nav-bar style */
 .accordion.accordion11 > details .accordion-item-body {
   display: none;
 }
 
-/* Remove margin between details for horizontal layout */
 .accordion.accordion11 > details + details {
   margin-top: 0;
 }
 
-/* Responsive: Stack vertically, adjust pill size and gaps */
 @media (width <= 700px) {
   .accordion.accordion11 {
     flex-direction: column;
@@ -298,5 +292,96 @@
     width: 100%;
     margin: 8px 0;
     flex-basis: auto;
+  }
+}
+
+
+.accordion.accordion12 {
+  background: #fff;
+  padding: 0 24px;
+  box-sizing: border-box;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.accordion.accordion12 details {
+  border: none;
+  background: transparent;
+  margin: 0;
+  padding: 0;
+}
+
+/* Use flex for the question row for perfect side-by-side alignment */
+.accordion.accordion12 summary {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0;
+  margin: 0;
+  min-height: unset;
+  background: transparent;
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+
+/* Remove browser default disclosure marker */
+.accordion.accordion12 summary::-webkit-details-marker,
+.accordion.accordion12 summary::marker {
+  display: none;
+}
+
+/* Question text styling: minimal line height, no extra margin/padding */
+.accordion.accordion12 summary p {
+  font-family: var(--heading-font-family);
+  font-size: var(--heading-font-size-m);
+  font-weight: 600;
+  color: #222;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  align-self: flex-start;
+  padding-top: 0;
+}
+
+/* Tighten icon alignment, nudge upward if needed */
+.accordion.accordion12 summary::after {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  min-width: 18px;
+  min-height: 18px;
+  margin-left: 8px;
+  margin-top: -2px;
+  vertical-align: top;
+  align-self: flex-start;
+}
+
+/* Remove all top margin/padding from first details child */
+.accordion.accordion12 > details:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+/* Accordion body styles */
+.accordion.accordion12 .accordion-item-body {
+  margin-top: 2px;
+  padding: 0;
+}
+
+.accordion.accordion12 .accordion-item-body p {
+  font-size: var(--body-font-size-s);
+  color: #666;
+  font-weight: 400;
+  margin: 0;
+  line-height: 1.3;
+}
+
+/* Responsive adjustments */
+@media (width <= 700px) {
+  .accordion.accordion12 {
+    padding-left: 12px;
+    padding-right: 12px;
   }
 }
