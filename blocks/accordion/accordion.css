@@ -636,3 +636,79 @@
   color: #333;
   font-family: inherit;
 }
+
+
+.accordion.accordion17 details,
+.accordion.accordion17 details[open] {
+  border: none;
+  background: #fff;
+  margin: 0;
+}
+
+/* Flex layout: text left, icon right */
+.accordion.accordion17 details summary,
+.accordion.accordion17 .accordion-item-label {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 32px;
+  height: 32px;
+  padding: 0;
+  background: #fff;
+  border: none;
+  box-shadow: none;
+  outline: none;
+  cursor: pointer;
+  position: relative;
+}
+
+/* Bold, left-aligned question text */
+.accordion.accordion17 details summary p {
+  font-weight: 700;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  flex: 1 1 auto;
+  line-height: 1.2;
+  padding-left: 10px;
+}
+
+/* Draw a compact, visually balanced plus using pseudo-elements */
+.accordion.accordion17 details summary::before,
+.accordion.accordion17 details summary::after {
+  content: "";
+  position: absolute;
+  right: 24px;
+  top: 50%;
+  background: #000;
+  border-radius: 1.5px;
+  display: block;
+}
+
+.accordion.accordion17 details summary::before {
+  /* Horizontal bar of plus */
+  width: 16px;
+  height: 3px;
+  transform: translateY(-50%);
+}
+
+.accordion.accordion17 details summary::after {
+  /* Vertical bar of plus */
+  width: 3px;
+  height: 16px;
+  transform: translateY(-50%);
+}
+
+/* Remove border on accordion body */
+.accordion.accordion17 details .accordion-item-body {
+  padding: 0 16px;
+  background: #fff;
+  border: none;
+}
+
+/* Divider for open state on body only */
+.accordion.accordion17 details[open] .accordion-item-body {
+  border-top: 1px solid #dadada;
+  background: #fff;
+}
