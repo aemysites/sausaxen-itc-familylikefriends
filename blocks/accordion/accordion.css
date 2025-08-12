@@ -645,7 +645,6 @@
   margin: 0;
 }
 
-/* Flex layout: text left, icon right */
 .accordion.accordion17 details summary,
 .accordion.accordion17 .accordion-item-label {
   display: flex;
@@ -663,7 +662,6 @@
   position: relative;
 }
 
-/* Bold, left-aligned question text */
 .accordion.accordion17 details summary p {
   font-weight: 700;
   font-size: 14px;
@@ -674,7 +672,6 @@
   padding-left: 10px;
 }
 
-/* Draw a compact, visually balanced plus using pseudo-elements */
 .accordion.accordion17 details summary::before,
 .accordion.accordion17 details summary::after {
   content: "";
@@ -687,28 +684,108 @@
 }
 
 .accordion.accordion17 details summary::before {
-  /* Horizontal bar of plus */
   width: 16px;
   height: 3px;
   transform: translateY(-50%);
 }
 
 .accordion.accordion17 details summary::after {
-  /* Vertical bar of plus */
   width: 3px;
   height: 16px;
   transform: translateY(-50%);
 }
 
-/* Remove border on accordion body */
 .accordion.accordion17 details .accordion-item-body {
   padding: 0 16px;
   background: #fff;
   border: none;
 }
 
-/* Divider for open state on body only */
 .accordion.accordion17 details[open] .accordion-item-body {
   border-top: 1px solid #dadada;
   background: #fff;
+}
+
+
+.accordion.accordion18 {
+  background: #fff;
+}
+
+.accordion.accordion18 details {
+  border: none;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+}
+
+/* Use flexbox for precise horizontal and vertical alignment of summary row */
+.accordion.accordion18 .accordion-item-label {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 32px;
+  border-bottom: 1px solid #e0e0e0;
+  background: #fff;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  width: 100%;
+  gap: 0;
+}
+
+/* Remove margin from <p> and ensure font and vertical centering */
+.accordion.accordion18 .accordion-item-label p {
+  font-family: Inter, Arial, sans-serif;
+  font-size: 14px;
+  color: #222;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  align-self: center;
+  line-height: 1.2;
+}
+
+/* Ensure summary stretches full width and marker is flush right */
+.accordion.accordion18 details summary {
+  font-size: 16px;
+  line-height: 1.2;
+  padding: 0;
+  margin: 0;
+  background: transparent;
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+
+/* Remove default marker hiding to preserve browser chevron */
+.accordion.accordion18 .accordion-item-label::-webkit-details-marker,
+.accordion.accordion18 .accordion-item-label::marker {
+  /* Do not hide marker */
+}
+
+/* Ensure spacing between accordion items is zero */
+.accordion.accordion18 details + details {
+  margin-top: 0;
+}
+
+/* Remove padding and border from body */
+.accordion.accordion18 .accordion-item-body {
+  padding: 0;
+  margin: 0;
+  background: #fff;
+  border: none;
+}
+
+/* Remove open state background and border */
+.accordion.accordion18 details[open] .accordion-item-body {
+  background: #fff;
+  border: none;
 }
