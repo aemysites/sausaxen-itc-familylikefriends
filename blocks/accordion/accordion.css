@@ -311,7 +311,6 @@
   padding: 0;
 }
 
-/* Use flex for the question row for perfect side-by-side alignment */
 .accordion.accordion12 summary {
   display: flex;
   flex-direction: row;
@@ -326,13 +325,11 @@
   box-shadow: none;
 }
 
-/* Remove browser default disclosure marker */
 .accordion.accordion12 summary::-webkit-details-marker,
 .accordion.accordion12 summary::marker {
   display: none;
 }
 
-/* Question text styling: minimal line height, no extra margin/padding */
 .accordion.accordion12 summary p {
   font-family: var(--heading-font-family);
   font-size: var(--heading-font-size-m);
@@ -345,7 +342,6 @@
   padding-top: 0;
 }
 
-/* Tighten icon alignment, nudge upward if needed */
 .accordion.accordion12 summary::after {
   display: inline-block;
   width: 18px;
@@ -358,13 +354,11 @@
   align-self: flex-start;
 }
 
-/* Remove all top margin/padding from first details child */
 .accordion.accordion12 > details:first-child {
   margin-top: 0;
   padding-top: 0;
 }
 
-/* Accordion body styles */
 .accordion.accordion12 .accordion-item-body {
   margin-top: 2px;
   padding: 0;
@@ -378,10 +372,108 @@
   line-height: 1.3;
 }
 
-/* Responsive adjustments */
 @media (width <= 700px) {
   .accordion.accordion12 {
     padding-left: 12px;
     padding-right: 12px;
   }
+}
+
+
+.accordion.accordion13 {
+  background: #fff;
+  max-width: 400px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Use CSS grid to keep marker closely grouped with text */
+.accordion.accordion13 summary.accordion-item-label {
+  display: grid;
+  grid-template-columns: 1fr min-content;
+  align-items: center;
+  gap: 10px;
+  padding: 0;
+  margin: 0;
+  min-height: 32px;
+  background: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  list-style: none;
+  font-size: 16px;
+  font-weight: 600;
+  color: #222;
+  line-height: 1.25;
+  width: 100%;
+}
+
+/* Tight vertical stack for accordion items */
+.accordion.accordion13 > details {
+  border: none;
+  background: transparent;
+  margin: 0 0 8px;
+  padding: 0;
+}
+
+/* Question text styling */
+.accordion.accordion13 summary.accordion-item-label p {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-weight: 600;
+  color: #222;
+  line-height: 1.25;
+  white-space: normal;
+  min-width: 0;
+}
+
+.accordion.accordion13 summary::-webkit-details-marker,
+.accordion.accordion13 summary::marker {
+  font-size: 21px;
+  color: #b0b0b0;
+  margin: 0;
+  padding: 0;
+}
+
+/* Accordion body/answer */
+.accordion.accordion13 .accordion-item-body {
+  padding: 0;
+  margin: 0;
+}
+
+.accordion.accordion13 .accordion-item-body p {
+  font-size: 13px;
+  color: #757575;
+  margin: 4px 0 0 8px;
+  padding: 0;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+/* Remove border and background from opened item body */
+.accordion.accordion13 > details[open] .accordion-item-body {
+  border: none;
+  background: transparent;
+}
+
+/* Responsive: keep block compact */
+@media (width <= 600px) {
+  .accordion.accordion13 {
+    max-width: 100%;
+    padding: 0;
+  }
+}
+
+/* Remove extra vertical spacing from details children */
+.accordion.accordion13 > details > * {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* Remove any unused left/right spacing on summary */
+.accordion.accordion13 > details > summary {
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
