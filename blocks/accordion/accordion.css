@@ -71,7 +71,6 @@
   margin-top: 0;
 }
 
-/* Use flex for summary row and ensure tight left/right alignment */
 .accordion.accordion2 summary {
   display: flex;
   flex-direction: row;
@@ -93,7 +92,6 @@
   accent-color: #999;
 }
 
-/* Make browser marker lighter and slightly smaller for a subtler look */
 .accordion.accordion2 summary::-webkit-details-marker {
   color: #999;
   font-size: 16px;
@@ -101,16 +99,12 @@
   vertical-align: middle;
 }
 
-/* Try to style marker in Firefox (limited support) */
-
-/* Remove highlight on hover/focus/open */
 .accordion.accordion2 details[open] summary,
 .accordion.accordion2 summary:focus,
 .accordion.accordion2 summary:hover {
   background: #fff;
 }
 
-/* Grow the text to fill the left side, and keep it vertically centered */
 .accordion.accordion2 summary p {
   margin: 0;
   color: #222;
@@ -121,13 +115,112 @@
   align-self: center;
 }
 
-/* Remove any hiding of pseudo elements */
 .accordion.accordion2 summary::before,
 .accordion.accordion2 summary::after {
   display: none;
 }
 
-/* Accordion body spacing */
 .accordion.accordion2 .accordion-item-body {
   padding: 0 16px;
+}
+
+
+.accordion.accordion7 {
+  border: none;
+  background: none;
+  box-shadow: none;
+  padding: 0;
+}
+
+.accordion.accordion7 details {
+  border: none;
+  background: none;
+  box-shadow: none;
+  margin: 0;
+}
+
+/* Layout with flex row, left/right padding, and divider as background */
+.accordion.accordion7 summary.accordion-item-label {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  padding: 0 24px;
+  min-height: 36px;
+  border: none;
+  background: 
+    linear-gradient(
+      to right,
+      transparent 0,
+      transparent calc(0.5em + 0px), /* covers left padding and small gap after text */
+      #999 calc(0.5em + 0px),       /* line starts just after text */
+      #999 100%
+    );
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 100% 1px;
+  box-sizing: border-box;
+  position: relative;
+  width: 100%;
+  z-index: 0;
+}
+
+/* Bold question styling; allow wrapping; cover divider behind text */
+.accordion.accordion7 summary.accordion-item-label p {
+  font-family: var(--heading-font-family);
+  font-size: var(--heading-font-size-l);
+  font-weight: 700;
+  color: #000;
+  margin: 0;
+  background: var(--background-color); /* cover divider line behind text */
+  padding-right: 18px; /* visual space to the right of text before divider starts */
+  z-index: 1;
+  display: inline-block;
+  max-width: 100%;
+  white-space: normal;
+  overflow: visible;
+  text-overflow: unset;
+}
+
+/* Remove arrow indicator */
+.accordion.accordion7 summary::after {
+  display: none;
+}
+
+.accordion.accordion7 details summary {
+  padding: 0;
+}
+
+/* Remove borders/background on expanded answer */
+.accordion.accordion7 details[open] .accordion-item-body {
+  border-top: none;
+  background: none;
+  box-shadow: none;
+  padding: 0 24px;
+}
+
+/* Answer text styling */
+.accordion.accordion7 .accordion-item-body p {
+  font-family: var(--body-font-family);
+  font-size: 15px;
+  font-weight: 400;
+  color: #222;
+  margin: 8px 0 0;
+}
+
+/* Responsive: stack on small screens, place divider below heading */
+@media (width <= 600px) {
+  .accordion.accordion7 summary.accordion-item-label {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0 8px;
+    background: none;
+    border-bottom: 1px solid #999;
+    min-height: auto;
+  }
+
+  .accordion.accordion7 summary.accordion-item-label p {
+    padding-right: 0;
+    display: block;
+    width: 100%;
+  }
 }
