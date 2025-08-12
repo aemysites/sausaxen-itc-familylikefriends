@@ -718,7 +718,6 @@
   background: #fff;
 }
 
-/* Use flexbox for precise horizontal and vertical alignment of summary row */
 .accordion.accordion18 .accordion-item-label {
   display: flex;
   flex-direction: row;
@@ -734,7 +733,6 @@
   gap: 0;
 }
 
-/* Remove margin from <p> and ensure font and vertical centering */
 .accordion.accordion18 .accordion-item-label p {
   font-family: Inter, Arial, sans-serif;
   font-size: 14px;
@@ -746,7 +744,6 @@
   line-height: 1.2;
 }
 
-/* Ensure summary stretches full width and marker is flush right */
 .accordion.accordion18 details summary {
   font-size: 16px;
   line-height: 1.2;
@@ -765,18 +762,14 @@
   border: none;
 }
 
-/* Remove default marker hiding to preserve browser chevron */
 .accordion.accordion18 .accordion-item-label::-webkit-details-marker,
 .accordion.accordion18 .accordion-item-label::marker {
-  /* Do not hide marker */
 }
 
-/* Ensure spacing between accordion items is zero */
 .accordion.accordion18 details + details {
   margin-top: 0;
 }
 
-/* Remove padding and border from body */
 .accordion.accordion18 .accordion-item-body {
   padding: 0;
   margin: 0;
@@ -784,8 +777,90 @@
   border: none;
 }
 
-/* Remove open state background and border */
 .accordion.accordion18 details[open] .accordion-item-body {
   background: #fff;
   border: none;
+}
+
+
+.accordion.accordion19 details,
+.accordion.accordion19 summary {
+  list-style: none;
+}
+
+/* Use grid for strong column alignment: left text, right icon */
+.accordion.accordion19 summary {
+  display: grid;
+  grid-template-columns: 1fr 24px;
+  align-items: center;
+  padding-left: 8px;
+  padding-right: 8px;
+  min-height: 32px;
+  border-bottom: 1px solid #E0E0E0;
+  background: #fff;
+  font-family: Inter, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #232323;
+  outline: none;
+  cursor: pointer;
+  position: relative;
+  box-sizing: border-box;
+  appearance: none;
+  list-style-type: none;
+}
+
+.accordion.accordion19 summary::-webkit-details-marker,
+.accordion.accordion19 summary::marker {
+  display: none;
+  font-size: 0;
+  color: transparent;
+}
+
+/* Question text alignment */
+.accordion.accordion19 summary p {
+  margin: 0;
+  color: #232323;
+  font-size: 16px;
+  font-family: Inter, Arial, sans-serif;
+  font-weight: 400;
+  place-self: center start;
+
+  /* Ensure text wraps if needed */
+  white-space: normal;
+}
+
+/* Simulated plus icon using gradients. Rendered in right grid cell. */
+.accordion.accordion19 summary::after {
+  display: block;
+  width: 16px;
+  height: 16px;
+  place-self: center end;
+  box-sizing: border-box;
+  background: 
+    linear-gradient(to right, #BDBDBD 0%, #BDBDBD 100%) center/16px 2px no-repeat, 
+    linear-gradient(to bottom, #BDBDBD 0%, #BDBDBD 100%) center/2px 16px no-repeat;
+  border-radius: 2px;
+
+  /* No content injected */
+}
+
+/* When details is open, show minus sign only (horizontal line) */
+.accordion.accordion19 details[open] summary::after {
+  background:
+    linear-gradient(to right, #BDBDBD 0 0) center/16px 2px no-repeat;
+}
+
+/* Remove highlight background on hover/focus/open */
+.accordion.accordion19 details[open] summary,
+.accordion.accordion19 summary:focus,
+.accordion.accordion19 summary:hover {
+  background: #fff;
+}
+
+/* Accordion item body styling */
+.accordion.accordion19 .accordion-item-body {
+  padding: 0;
+  border: none;
+  background: #fff;
 }
