@@ -1,12 +1,16 @@
 {
   "templates": [
     {
-      "name": "'Mobile Dashboard'",
+      "name": "'Mobile App Dashboard'",
       "cluster": 1,
       "pages": [
         {
           "url": "https://familylikefriends.com/sitemap.html",
           "uuid": "e9098ca714f7deb5b9fdd379c2a041694eb2070e"
+        },
+        {
+          "url": "https://familylikefriends.com/login.html",
+          "uuid": "0e82b1b9e076aa16107c878ed2d13f0850cd8393"
         },
         {
           "url": "https://familylikefriends.com/about-us.html",
@@ -37,17 +41,21 @@
       ]
     },
     {
-      "name": "'Portfolio Showcase'",
+      "name": "Modular Multi-Purpose Template",
       "cluster": 3,
       "pages": [
         {
-          "url": "https://familylikefriends.com/filmy-faces/posters-listing.html",
-          "uuid": "eaf55531cfb9094c533d04a63959047764b38d94"
+          "url": "https://familylikefriends.com/filmy-faces.html",
+          "uuid": "e60feb51086e3a3aba07754ceecc5f479a353319"
+        },
+        {
+          "url": "https://familylikefriends.com/home.html",
+          "uuid": "99e5aba01c9b2563d6fe4de13a79587b68c3691e"
         }
       ]
     },
     {
-      "name": "'Portfolio Showcase'",
+      "name": "'Promotional Page'",
       "cluster": 4,
       "pages": [
         {
@@ -67,27 +75,27 @@
       ]
     },
     {
-      "name": "'Multi-purpose content hub'",
+      "name": "'Multi-purpose modular layout'",
       "cluster": 6,
       "pages": [
         {
-          "url": "https://familylikefriends.com/home.html",
-          "uuid": "99e5aba01c9b2563d6fe4de13a79587b68c3691e"
+          "url": "https://familylikefriends.com/",
+          "uuid": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d"
         }
       ]
     },
     {
-      "name": "Mobile App Landing Page",
+      "name": "'Portfolio Showcase'",
       "cluster": 7,
       "pages": [
         {
-          "url": "https://familylikefriends.com/filmy-faces.html",
-          "uuid": "e60feb51086e3a3aba07754ceecc5f479a353319"
+          "url": "https://familylikefriends.com/filmy-faces/posters-listing.html",
+          "uuid": "eaf55531cfb9094c533d04a63959047764b38d94"
         }
       ]
     },
     {
-      "name": "'Landing Page'",
+      "name": "'Portfolio Showcase'",
       "cluster": 8,
       "pages": [
         {
@@ -97,7 +105,7 @@
       ]
     },
     {
-      "name": "Product Landing Page",
+      "name": "Product Showcase Page",
       "cluster": 9,
       "pages": [
         {
@@ -107,32 +115,12 @@
       ]
     },
     {
-      "name": "\"Landing Page\"",
+      "name": "\"Portfolio Page\"",
       "cluster": 10,
       "pages": [
         {
           "url": "https://familylikefriends.com/login/profile.html",
           "uuid": "a245af7c99bebcdcf3cdfdf66a6ce2fd1a4e5d2e"
-        }
-      ]
-    },
-    {
-      "name": "'Homepage'",
-      "cluster": 11,
-      "pages": [
-        {
-          "url": "https://familylikefriends.com/login.html",
-          "uuid": "0e82b1b9e076aa16107c878ed2d13f0850cd8393"
-        }
-      ]
-    },
-    {
-      "name": "Multi-Purpose Content Template",
-      "cluster": 12,
-      "pages": [
-        {
-          "url": "https://familylikefriends.com/",
-          "uuid": "3b3fdbd78480c3a5b87ad2f2f3c3df0270976d7d"
         }
       ]
     }
