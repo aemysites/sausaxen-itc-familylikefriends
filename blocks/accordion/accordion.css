@@ -1,4 +1,3 @@
-/* stylelint-disable no-descending-specificity */
 .accordion details {
   border: 1px solid #dadada;
 }
@@ -787,8 +786,6 @@
 .accordion.accordion19 summary {
   list-style: none;
 }
-
-/* Use grid for strong column alignment: left text, right icon */
 .accordion.accordion19 summary {
   display: grid;
   grid-template-columns: 1fr 24px;
@@ -816,8 +813,6 @@
   font-size: 0;
   color: transparent;
 }
-
-/* Question text alignment */
 .accordion.accordion19 summary p {
   margin: 0;
   color: #232323;
@@ -825,12 +820,8 @@
   font-family: Inter, Arial, sans-serif;
   font-weight: 400;
   place-self: center start;
-
-  /* Ensure text wraps if needed */
   white-space: normal;
 }
-
-/* Simulated plus icon using gradients. Rendered in right grid cell. */
 .accordion.accordion19 summary::after {
   display: block;
   width: 16px;
@@ -841,26 +832,94 @@
     linear-gradient(to right, #BDBDBD 0%, #BDBDBD 100%) center/16px 2px no-repeat, 
     linear-gradient(to bottom, #BDBDBD 0%, #BDBDBD 100%) center/2px 16px no-repeat;
   border-radius: 2px;
-
-  /* No content injected */
 }
-
-/* When details is open, show minus sign only (horizontal line) */
 .accordion.accordion19 details[open] summary::after {
   background:
     linear-gradient(to right, #BDBDBD 0 0) center/16px 2px no-repeat;
 }
-
-/* Remove highlight background on hover/focus/open */
 .accordion.accordion19 details[open] summary,
 .accordion.accordion19 summary:focus,
 .accordion.accordion19 summary:hover {
   background: #fff;
 }
-
-/* Accordion item body styling */
 .accordion.accordion19 .accordion-item-body {
   padding: 0;
   border: none;
   background: #fff;
+}
+
+
+.accordion.accordion20,
+.accordion.accordion20 details,
+.accordion.accordion20 details summary,
+.accordion.accordion20 details summary p {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.accordion.accordion20 details {
+  border: none;
+  background: #fff;
+}
+
+.accordion.accordion20 details summary {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 20px;
+  height: 20px;
+  width: 100%;
+  background: #fff;
+  border-bottom: 1px solid #eee;
+  cursor: pointer;
+  box-sizing: border-box;
+  /* Remove all side spacing */
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.accordion.accordion20 details summary p {
+  flex: 1 1 auto;
+  font-size: 14px;
+  font-weight: 400;
+  color: #222;
+  font-family: "Inter", Arial, sans-serif;
+  line-height: 20px;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.accordion.accordion20 details summary::-webkit-details-marker {
+  color: #222;
+  font-size: 16px;
+  margin-left: 2px;
+  margin-right: 0;
+  padding: 0;
+  align-self: center;
+}
+
+@supports selector(details summary::marker) {
+  .accordion.accordion20 details summary::marker {
+    color: #222;
+    font-size: 16px;
+    margin-left: 2px;
+    margin-right: 0;
+    padding: 0;
+    align-self: center;
+  }
+}
+
+.accordion.accordion20 details .accordion-item-body {
+  padding: 0;
+  border: none;
+  background: #fff;
+}
+
+.accordion.accordion20 details + details {
+  margin-top: 0;
 }
