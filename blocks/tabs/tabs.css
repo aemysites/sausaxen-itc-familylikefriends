@@ -1,3 +1,4 @@
+/* stylelint-disable no-descending-specificity */
 .tabs .tabs-list {
   display: flex;
   gap: 0.5ch;
@@ -54,5 +55,152 @@
 }
 
 .tabs .tabs-panel[aria-hidden='true'] {
+  display: none;
+}
+
+
+.tabs.tabs8 {
+  border: none;
+  box-shadow: none;
+  background: #fff;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+/* Pill-shaped colored tabs, side-by-side row layout */
+.tabs.tabs8 .tabs-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 14px;
+  padding: 20px 0 18px;
+  margin-top: 0;
+  margin-bottom: 24px;
+  border: none;
+  background: none;
+}
+
+.tabs.tabs8 .tabs-list .tabs-tab {
+  border-radius: 999px;
+  border: 2px solid #F90;
+  background: #FFE7C7;
+  color: #F90;
+  font-weight: 700;
+  font-size: 17px;
+  padding: 8px 28px;
+  margin: 0;
+  outline: none;
+  box-shadow: none;
+  transition: background 0.2s, color 0.2s, border 0.2s;
+  min-width: 0;
+}
+
+.tabs.tabs8 .tabs-list .tabs-tab[aria-selected="true"] {
+  background: #fff;
+  color: #F90;
+  border: 2px solid #F90;
+  font-weight: 700;
+}
+
+/* Hide the first <p> (file path) */
+.tabs.tabs8 .tabs-panel > div > p:first-child {
+  display: none;
+}
+
+/* Main grid: center, max width, responsive multi-row/column grid */
+.tabs.tabs8 .tabs-panel > div {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 28px 32px;
+  max-width: 940px;
+  margin: 0 auto;
+  width: 100%;
+  place-items: stretch stretch;
+  background: none;
+  box-shadow: none;
+  border: none;
+}
+
+/* Responsive: stack grid on small screens */
+@media (width <= 900px) {
+  .tabs.tabs8 .tabs-panel > div {
+    grid-template-columns: 1fr;
+    gap: 18px 0;
+    max-width: 98vw;
+  }
+}
+
+/* Poster cards: remove extra margin */
+.tabs.tabs8 .tabs-panel > div > p {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: stretch;
+}
+
+/* Poster images styling */
+.tabs.tabs8 .tabs-panel > div > p picture img {
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px rgb(34 34 34 / 8%);
+  display: block;
+  background: #fff;
+}
+
+/* "LOAD MORE" Button: ensure it's just below grid with modest margin, centered and wide */
+.tabs.tabs8 .tabs-panel > div > p:last-child {
+  grid-column: 1 / -1;
+  place-self: start center;
+  background: #B73A3A;
+  color: #fff;
+  border-radius: 28px;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 14px 54px;
+  margin: 36px auto 0;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 6%);
+  text-align: center;
+  cursor: pointer;
+  border: none;
+  min-width: 210px;
+  max-width: 340px;
+  width: 100%;
+  letter-spacing: 0.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Tighter gap between grid items on small screens */
+@media (width <= 600px) {
+  .tabs.tabs8 .tabs-panel > div {
+    gap: 10px 0;
+  }
+
+  .tabs.tabs8 .tabs-panel > div > p:last-child {
+    padding: 12px 18px;
+    font-size: 16px;
+    min-width: 0;
+    max-width: none;
+  }
+}
+
+/* Remove unwanted spacing between grid items */
+.tabs.tabs8 .tabs-panel > div > p:not(:first-child, :last-child) {
+  margin: 0;
+  padding: 0;
+}
+
+/* Hide scrollbars for tab list and grid */
+.tabs.tabs8 .tabs-list,
+.tabs.tabs8 .tabs-panel {
+  scrollbar-width: none;
+}
+
+.tabs.tabs8 .tabs-list::-webkit-scrollbar,
+.tabs.tabs8 .tabs-panel::-webkit-scrollbar {
   display: none;
 }
