@@ -388,7 +388,6 @@
   padding: 0;
 }
 
-/* Use CSS grid to keep marker closely grouped with text */
 .accordion.accordion13 summary.accordion-item-label {
   display: grid;
   grid-template-columns: 1fr min-content;
@@ -409,7 +408,6 @@
   width: 100%;
 }
 
-/* Tight vertical stack for accordion items */
 .accordion.accordion13 > details {
   border: none;
   background: transparent;
@@ -417,7 +415,6 @@
   padding: 0;
 }
 
-/* Question text styling */
 .accordion.accordion13 summary.accordion-item-label p {
   margin: 0;
   padding: 0;
@@ -437,7 +434,6 @@
   padding: 0;
 }
 
-/* Accordion body/answer */
 .accordion.accordion13 .accordion-item-body {
   padding: 0;
   margin: 0;
@@ -452,13 +448,11 @@
   line-height: 1.4;
 }
 
-/* Remove border and background from opened item body */
 .accordion.accordion13 > details[open] .accordion-item-body {
   border: none;
   background: transparent;
 }
 
-/* Responsive: keep block compact */
 @media (width <= 600px) {
   .accordion.accordion13 {
     max-width: 100%;
@@ -466,14 +460,126 @@
   }
 }
 
-/* Remove extra vertical spacing from details children */
 .accordion.accordion13 > details > * {
   margin-top: 0;
   margin-bottom: 0;
 }
 
-/* Remove any unused left/right spacing on summary */
 .accordion.accordion13 > details > summary {
   margin-bottom: 0;
   padding-bottom: 0;
+}
+
+
+.accordion.accordion14 {
+  max-width: 410px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #fff;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Each accordion item: no box borders, just a subtle divider below */
+.accordion.accordion14 .accordion-item {
+  border: none;
+  border-bottom: 1px solid #ececec;
+  margin: 0;
+  padding: 0;
+  background: none;
+}
+
+.accordion.accordion14 .accordion-item:last-child {
+  border-bottom: none;
+}
+
+/* Question summary row: left text and right marker side by side */
+.accordion.accordion14 .accordion-item-label {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+  margin: 0;
+  background: none;
+  border: none;
+  width: 100%;
+  min-height: 28px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+/* Hide native details marker in browsers that support it */
+.accordion.accordion14 .accordion-item-label::-webkit-details-marker {
+  display: none;
+}
+
+/* Question text styling */
+.accordion.accordion14 .accordion-item-label p {
+  font-size: 15px;
+  font-weight: 600;
+  color: #222;
+  margin: 0;
+  flex: 1 1 auto;
+  line-height: 1.22;
+  background: none;
+  letter-spacing: 0.02em;
+}
+
+/* Ensure summary marker aligns right (default marker only, no content) */
+
+/* Answer body: indented, smaller, lighter text */
+.accordion.accordion14 .accordion-item-body {
+  padding: 0 0 8px 22px;
+  margin: 0;
+  background: none;
+  border: none;
+}
+
+.accordion.accordion14 .accordion-item-body p {
+  font-size: 13px;
+  font-weight: 400;
+  color: #757575;
+  margin: 0;
+  line-height: 1.45;
+  background: none;
+}
+
+/* Remove extra margin between items */
+.accordion.accordion14 details + details {
+  margin-top: 0;
+}
+
+/* Remove background or border on expanded answer */
+.accordion.accordion14 details[open] .accordion-item-body {
+  background: none;
+  border-top: none;
+}
+
+/* Remove background from question row, even on hover/focus/open */
+.accordion.accordion14 .accordion-item-label,
+.accordion.accordion14 details[open] .accordion-item-label,
+.accordion.accordion14 .accordion-item-label:focus,
+.accordion.accordion14 .accordion-item-label:hover {
+  background: none;
+  border: none;
+}
+
+/* Responsive adjustments */
+@media (width <= 600px) {
+  .accordion.accordion14 {
+    max-width: 100%;
+    padding: 0;
+  }
+
+  .accordion.accordion14 .accordion-item-label {
+    padding: 7px 0;
+    min-height: 24px;
+  }
+
+  .accordion.accordion14 .accordion-item-body {
+    padding-left: 12px;
+    padding-bottom: 6px;
+  }
 }
