@@ -1,8 +1,8 @@
+/* stylelint-disable no-descending-specificity */
 .accordion details {
   border: 1px solid #dadada;
 }
 
-/* stylelint-disable-next-line no-descending-specificity */
 .accordion details + details {
   margin-top: 24px;
 }
@@ -58,4 +58,76 @@
 .accordion details[open] .accordion-item-body {
   border-top: 1px solid #dadada;
   background-color: var(--background-color);
+}
+
+
+.accordion.accordion2 details {
+  border: none;
+  margin: 0;
+  background: #fff;
+}
+
+.accordion.accordion2 details + details {
+  margin-top: 0;
+}
+
+/* Use flex for summary row and ensure tight left/right alignment */
+.accordion.accordion2 summary {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+  padding: 8px 16px;
+  min-height: 32px;
+  border-bottom: 1px solid #eee;
+  font-family: sans-serif;
+  font-size: 16px;
+  color: #222;
+  outline: none;
+  cursor: pointer;
+  list-style: none;
+  position: relative;
+  box-sizing: border-box;
+  gap: 0;
+  accent-color: #999;
+}
+
+/* Make browser marker lighter and slightly smaller for a subtler look */
+.accordion.accordion2 summary::-webkit-details-marker {
+  color: #999;
+  font-size: 16px;
+  margin-left: 0;
+  vertical-align: middle;
+}
+
+/* Try to style marker in Firefox (limited support) */
+
+/* Remove highlight on hover/focus/open */
+.accordion.accordion2 details[open] summary,
+.accordion.accordion2 summary:focus,
+.accordion.accordion2 summary:hover {
+  background: #fff;
+}
+
+/* Grow the text to fill the left side, and keep it vertically centered */
+.accordion.accordion2 summary p {
+  margin: 0;
+  color: #222;
+  font-size: 16px;
+  font-family: inherit;
+  flex: 1 1 auto;
+  line-height: 1.4;
+  align-self: center;
+}
+
+/* Remove any hiding of pseudo elements */
+.accordion.accordion2 summary::before,
+.accordion.accordion2 summary::after {
+  display: none;
+}
+
+/* Accordion body spacing */
+.accordion.accordion2 .accordion-item-body {
+  padding: 0 16px;
 }
